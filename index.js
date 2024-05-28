@@ -25,21 +25,3 @@ veces que el programa se pueda ejecutar
 asientos. NO UTILIZAR	IGU para este caso . utilizar UNICAMENTE logica y la salida por consola
    */
 
-
-console.log("hhh");
-console.log("asas");
-
-
-function asientos(params) {
-
-
-    let asiento = [10][10];
-    let libre = "L"
-    let ocupado = "X";
-
-
-    console.log(asiento);
-    console.log( "assaas");
-
-
-}
